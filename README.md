@@ -12,6 +12,9 @@ The Process I undergone in this project is:
      Model Development, 
      Model Evaluation, 
      Interpretation and Actionable Insights   
+
+## Fraud Detection Model :: 1 - KNN, 2- Gradiant Boosting, 3- ExtremeGB
+
 ## 1. KNN
 
   Here i have used KNN Model which ia a supervised machine learning algorithm.It classifies and predict a new type of data instances with the simalrity of the training set(instances).So, this model calculates the distance between the new data point and all training instances and further it will selects the K nearest neighbours and conclude the class label or predict the output values based on majority or average of neighbours. 
