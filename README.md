@@ -4,9 +4,14 @@ This case requires trainees to develop a model for predicting fraudulent transac
 financial company and use insights from the model to develop an actionable plan. Data for the
 case is available in CSV format having 6362620 rows and 10 columns.
 
-The Process i undergone in this project is
-   Data Understanding, Data Preprocessing, Feature Selection, Model Development, Model Evaluation, Interpretation and Actionable Insights   
+The Process I undergone in this project is:
 
+     Data Understanding, 
+     Data Preprocessing,
+     Feature Selection, 
+     Model Development, 
+     Model Evaluation, 
+     Interpretation and Actionable Insights   
 ## 1. KNN
 
   Here i have used KNN Model which ia a supervised machine learning algorithm.It classifies and predict a new type of data instances with the simalrity of the training set(instances).So, this model calculates the distance between the new data point and all training instances and further it will selects the K nearest neighbours and conclude the class label or predict the output values based on majority or average of neighbours. 
